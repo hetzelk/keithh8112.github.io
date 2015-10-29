@@ -90,14 +90,13 @@ img .imgsmall{
     color:black;
 }
 
-.white{
-    background-color: white;
+.bordergreen{
+    border:green solid 5px;
 }
 
-
-
-
-
+.white{
+    background-color:white;
+}
 
 
 
